@@ -1,12 +1,21 @@
-As a result of its many applications across diverse sectors, seaweed is often actively cultivated. Listed Below is some information on that cultivation.
+
+As a result of its many [[Seaweed Application]], seaweed is actively cultivated, these notes go here.
+
 
 # General Principles
 
 
 
-# Mariculture/In Situ Cultivation Systems
+
+
+# Mariculture/In Situ Cultivation
 ## Tropical Seaweeds
+
 There are at present (2025), only two genera of tropical seaweed cultivated at scale. *Gracilaria* and *Euchuema*/*Kappaphycus*. Both are cultivated in similar methods at sea.
+
+(Other genera exist but are cultivated far, far, far less)
+
+
 
 A rope (often supported by another structure) is set up at sea in a suitable site. Fragments of the target seaweed are attached to the rope. This may take the form of being tied on to a secondary rope attached to the mainline, or being directly braided into the structure of the main rope.
 
